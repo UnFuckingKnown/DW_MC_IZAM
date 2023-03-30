@@ -1,0 +1,16 @@
+.detailMain img{
+    border-radius: 100px;
+    width: 170px;
+    height: 170px;
+    
+}
+
+
+.detailMain {
+    justify-content: center;
+    display: flex;
+}
+
+.containerd {
+    box-shadow: 1px 1px 10px grey;
+}

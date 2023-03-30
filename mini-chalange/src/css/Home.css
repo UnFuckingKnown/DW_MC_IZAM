@@ -1,0 +1,51 @@
+.c {
+    /* border: 1px solid red; */
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+.card {
+    /* border: 1px solid red; */
+    padding: 20px;
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+
+
+.left {
+    /* border: 1px solid red; */
+    width: 80px;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: rgb(110, 103, 103);
+    height: 80px;
+}
+
+.right {
+    /* border: 1px solid red; */
+    width: 400px;
+    height: 80px;
+    margin-left: 10px;
+    display: flex;
+}
+
+.inright {
+ margin-left: 20px;
+}
+
+
+.mainmain {
+    text-decoration: none;
+}
+
+.name {
+    margin-top: 30px;
+}
+
+.left img {
+    background-position: center;
+}
